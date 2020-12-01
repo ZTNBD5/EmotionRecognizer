@@ -7,3 +7,4 @@ EmotionRecognizer
    DataReport/index
    DataReport/dictionary
    Experiments/Experiment1/index
+   Experiments/Experiment2/index
